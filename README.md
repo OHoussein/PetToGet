@@ -3,7 +3,7 @@
 
 
 ## :scroll: Description
-This a pet adoption app, built with Jetpack Compose (no more Android views anymore).
+This is a pet adoption app, built with Jetpack Compose (no Android views anymore).
 
 
 ## :bulb: Motivation and Context

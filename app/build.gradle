@@ -32,6 +32,8 @@ android {
             signingConfig signingConfigs.debug
         }
         release {
+            //TODO release keystore
+            signingConfig signingConfigs.debug
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
         }

@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">PetToGet</string>
+    <string name="back">Back</string>
+
+    <string name="gender_male">Male</string>
+    <string name="gender_female">Female</string>
+
+    <string name="favorite">Favorite</string>
+    <string name="adoption">Adoption</string>
+
+    <string name="cat">Cat</string>
+    <string name="dog">Dog</string>
+    <string name="other">Other</string>
+
+
+    <string name="age">Age</string>
+    <string name="gender">Gender</string>
+    <string name="weight">Weight</string>
+    <string name="weight_kg">%1$d Kg</string>
+    <string name="address">Address</string>
+    <string name="description">Description</string>
+
+    <string name="characteristics">Characteristics</string>
+
+    <!--Duration-->
+    <string name="duration_days_short">%1$d d.</string>
+    <string name="duration_weeks_short">%1$d wk.</string>
+    <string name="duration_months_short">%1$d mo.</string>
+    <string name="duration_years_short">%1$d yr.</string>
+    <string name="duration_years_and_months_short">%1$dyr. %2$dmo.</string>
+</resources>

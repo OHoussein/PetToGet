@@ -1,0 +1,763 @@
+[
+  {
+    "id": 1,
+    "breed": "Bulldog",
+    "type": "DOG",
+    "name": "Bob",
+    "description": "Very friendly and well-behaved puppy. It's potty trained and responds whenever it's called. And, he's neutered.",
+    "gender": "MALE",
+    "ageInDays": 400,
+    "weightKg": 20,
+    "characteristics": [
+      {
+        "label": "Energy",
+        "level": 2
+      },
+      {
+        "label": "Playfulness",
+        "level": 1
+      },
+      {
+        "label": "Affection",
+        "level": 1
+      },
+      {
+        "label": "Tolerance of other dogs",
+        "level": 3
+      },
+      {
+        "label": "Tolerance of Strangers",
+        "level": 3
+      },
+      {
+        "label": "Watchdog",
+        "level": 4
+      },
+      {
+        "label": "Grooming needs",
+        "level": 3
+      },
+      {
+        "label": "Tolerance of cold",
+        "level": 4
+      },
+      {
+        "label": "Tolerance of Heat",
+        "level": 3
+      },
+      {
+        "label": "Intelligence",
+        "level": 5
+      }
+    ],
+    "images": [
+      "https://images.dog.ceo/breeds/bulldog-boston/20200710_175933.jpg",
+      "https://images.dog.ceo/breeds/bulldog-boston/20200710_175944.jpg",
+      "https://images.dog.ceo/breeds/bulldog-boston/n02096585_10380.jpg"
+    ],
+    "owner": {
+      "fullDisplayName": "Houssein Ouerghemmi",
+      "image": "https://i.ibb.co/DYqbLGj/image.jpg"
+    },
+    "location": {
+      "distanceKm": 12,
+      "address": "Paris"
+    }
+  },
+  {
+    "id": 2,
+    "breed": "Affenpinscher",
+    "type": "DOG",
+    "name": "Alpha",
+    "description": "Very friendly and well-behaved puppy. He is potty trained and responds whenever he is called. And, he's neutered.",
+    "gender": "FEMALE",
+    "ageInDays": 200,
+    "weightKg": 15,
+    "characteristics": [
+      {
+        "label": "Energy",
+        "level": 3
+      },
+      {
+        "label": "Playfulness",
+        "level": 5
+      },
+      {
+        "label": "Affection",
+        "level": 5
+      },
+      {
+        "label": "Tolerance of other dogs",
+        "level": 3
+      },
+      {
+        "label": "Tolerance of Strangers",
+        "level": 2
+      },
+      {
+        "label": "Watchdog",
+        "level": 1
+      },
+      {
+        "label": "Grooming needs",
+        "level": 3
+      },
+      {
+        "label": "Tolerance of cold",
+        "level": 4
+      },
+      {
+        "label": "Tolerance of Heat",
+        "level": 1
+      },
+      {
+        "label": "Intelligence",
+        "level": 2
+      }
+    ],
+    "images": [
+      "https://images.dog.ceo/breeds/affenpinscher/n02110627_4086.jpg",
+      "https://images.dog.ceo/breeds/affenpinscher/n02110627_12003.jpg"
+    ],
+    "owner": {
+      "fullDisplayName": "Houssein Ouerghemmi",
+      "image": "https://i.ibb.co/DYqbLGj/image.jpg"
+    },
+    "location": {
+      "distanceKm": 12,
+      "address": "Paris"
+    }
+  },
+  {
+    "id": 3,
+    "breed": "African",
+    "type": "DOG",
+    "name": "Snooze",
+    "description": "Very friendly and well-behaved puppy. He is potty trained and responds whenever he is called. And, he's neutered.",
+    "gender": "MALE",
+    "ageInDays": 100,
+    "weightKg": 19,
+    "characteristics": [
+      {
+        "label": "Energy",
+        "level": 5
+      },
+      {
+        "label": "Playfulness",
+        "level": 2
+      },
+      {
+        "label": "Affection",
+        "level": 4
+      },
+      {
+        "label": "Tolerance of other dogs",
+        "level": 1
+      },
+      {
+        "label": "Tolerance of Strangers",
+        "level": 1
+      },
+      {
+        "label": "Watchdog",
+        "level": 5
+      },
+      {
+        "label": "Grooming needs",
+        "level": 4
+      },
+      {
+        "label": "Tolerance of cold",
+        "level": 1
+      },
+      {
+        "label": "Tolerance of Heat",
+        "level": 5
+      },
+      {
+        "label": "Intelligence",
+        "level": 4
+      }
+    ],
+    "images": [
+      "https://images.dog.ceo/breeds/african/n02116738_3692.jpg",
+      "https://images.dog.ceo/breeds/african/n02116738_2514.jpg",
+      "https://images.dog.ceo/breeds/african/n02116738_7026.jpg"
+    ],
+    "owner": {
+      "fullDisplayName": "Houssein Ouerghemmi",
+      "image": "https://i.ibb.co/DYqbLGj/image.jpg"
+    },
+    "location": {
+      "distanceKm": 12,
+      "address": "Paris"
+    }
+  },
+  {
+    "id": 4,
+    "breed": "Akita",
+    "type": "DOG",
+    "name": "Magnum",
+    "description": "Very friendly and well-behaved puppy. He is potty trained and responds whenever he is called. And, he's neutered.",
+    "gender": "FEMALE",
+    "ageInDays": 300,
+    "weightKg": 25,
+    "characteristics": [
+      {
+        "label": "Energy",
+        "level": 4
+      },
+      {
+        "label": "Playfulness",
+        "level": 3
+      },
+      {
+        "label": "Affection",
+        "level": 4
+      },
+      {
+        "label": "Tolerance of other dogs",
+        "level": 3
+      },
+      {
+        "label": "Tolerance of Strangers",
+        "level": 3
+      },
+      {
+        "label": "Watchdog",
+        "level": 4
+      },
+      {
+        "label": "Grooming needs",
+        "level": 3
+      },
+      {
+        "label": "Tolerance of cold",
+        "level": 5
+      },
+      {
+        "label": "Tolerance of Heat",
+        "level": 1
+      },
+      {
+        "label": "Intelligence",
+        "level": 4
+      }
+    ],
+    "images": [
+      "https://images.dog.ceo/breeds/akita/Akita_Inu_dog.jpg",
+      "https://images.dog.ceo/breeds/akita/512px-Akita_inu.jpeg",
+      "https://images.dog.ceo/breeds/akita/Akita_hiking_in_Shpella_e_Pellumbasit.jpg"
+    ],
+    "owner": {
+      "fullDisplayName": "Houssein Ouerghemmi",
+      "image": "https://i.ibb.co/DYqbLGj/image.jpg"
+    },
+    "location": {
+      "distanceKm": 12,
+      "address": "Paris"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Ryu",
+    "type": "DOG",
+    "breed": "Beagle",
+    "description": "Very friendly and well-behaved puppy. He is potty trained and responds whenever he is called. And, he's neutered.",
+    "gender": "MALE",
+    "ageInDays": 30,
+    "weightKg": 13,
+    "characteristics": [
+      {
+        "label": "Energy",
+        "level": 3
+      },
+      {
+        "label": "Playfulness",
+        "level": 5
+      },
+      {
+        "label": "Affection",
+        "level": 5
+      },
+      {
+        "label": "Tolerance of other dogs",
+        "level": 3
+      },
+      {
+        "label": "Tolerance of Strangers",
+        "level": 4
+      },
+      {
+        "label": "Watchdog",
+        "level": 3
+      },
+      {
+        "label": "Grooming needs",
+        "level": 4
+      },
+      {
+        "label": "Tolerance of cold",
+        "level": 3
+      },
+      {
+        "label": "Tolerance of Heat",
+        "level": 3
+      },
+      {
+        "label": "Intelligence",
+        "level": 3
+      }
+    ],
+    "images": [
+      "https://images.dog.ceo/breeds/beagle/n02088364_14431.jpg",
+      "https://images.dog.ceo/breeds/beagle/n02088364_13464.jpg",
+      "https://images.dog.ceo/breeds/beagle/n02088364_4473.jpg"
+    ],
+    "owner": {
+      "fullDisplayName": "Houssein Ouerghemmi",
+      "image": "https://i.ibb.co/DYqbLGj/image.jpg"
+    },
+    "location": {
+      "distanceKm": 12,
+      "address": "Paris"
+    }
+  },
+  {
+    "id": 6,
+    "breed": "Brabancon",
+    "type": "DOG",
+    "name": "Metal",
+    "description": "Very friendly and well-behaved puppy. He is potty trained and responds whenever he is called. And, he's neutered.",
+    "gender": "MALE",
+    "ageInDays": 40,
+    "weightKg": 15,
+    "characteristics": [
+      {
+        "label": "Energy",
+        "level": 4
+      },
+      {
+        "label": "Playfulness",
+        "level": 5
+      },
+      {
+        "label": "Affection",
+        "level": 4
+      },
+      {
+        "label": "Tolerance of other dogs",
+        "level": 2
+      },
+      {
+        "label": "Tolerance of Strangers",
+        "level": 4
+      },
+      {
+        "label": "Watchdog",
+        "level": 1
+      },
+      {
+        "label": "Grooming needs",
+        "level": 3
+      },
+      {
+        "label": "Tolerance of cold",
+        "level": 4
+      },
+      {
+        "label": "Tolerance of Heat",
+        "level": 2
+      },
+      {
+        "label": "Intelligence",
+        "level": 3
+      }
+    ],
+    "images": [
+      "https://images.dog.ceo/breeds/brabancon/n02112706_426.jpg",
+      "https://images.dog.ceo/breeds/brabancon/n02112706_108.jpg",
+      "https://images.dog.ceo/breeds/brabancon/n02112706_888.jpg"
+    ],
+    "owner": {
+      "fullDisplayName": "Houssein Ouerghemmi",
+      "image": "https://i.ibb.co/DYqbLGj/image.jpg"
+    },
+    "location": {
+      "distanceKm": 12,
+      "address": "Paris"
+    }
+  },
+  {
+    "id": 7,
+    "breed": "Yorkshire Terrier",
+    "type": "DOG",
+    "name": "Shazam",
+    "description": "Very friendly and well-behaved puppy. He is potty trained and responds whenever he is called. And, he's neutered.",
+    "gender": "FEMALE",
+    "ageInDays": 100,
+    "weightKg": 13,
+    "characteristics": [
+      {
+        "label": "Energy",
+        "level": 5
+      },
+      {
+        "label": "Playfulness",
+        "level": 5
+      },
+      {
+        "label": "Affection",
+        "level": 4
+      },
+      {
+        "label": "Tolerance of other dogs",
+        "level": 4
+      },
+      {
+        "label": "Tolerance of Strangers",
+        "level": 5
+      },
+      {
+        "label": "Watchdog",
+        "level": 1
+      },
+      {
+        "label": "Grooming needs",
+        "level": 2
+      },
+      {
+        "label": "Tolerance of cold",
+        "level": 5
+      },
+      {
+        "label": "Tolerance of Heat",
+        "level": 1
+      },
+      {
+        "label": "Intelligence",
+        "level": 1
+      }
+    ],
+    "images": [
+      "https://images.dog.ceo/breeds/terrier-yorkshire/n02094433_4214.jpg",
+      "https://images.dog.ceo/breeds/terrier-yorkshire/n02094433_1312.jpg",
+      "https://images.dog.ceo/breeds/terrier-yorkshire/n02094433_1765.jpg"
+    ],
+    "owner": {
+      "fullDisplayName": "Houssein Ouerghemmi",
+      "image": "https://i.ibb.co/DYqbLGj/image.jpg"
+    },
+    "location": {
+      "distanceKm": 12,
+      "address": "Paris"
+    }
+  },
+  {
+    "id": 8,
+    "breed": "Standard Poodle",
+    "type": "DOG",
+    "name": "Corky",
+    "description": "Very friendly and well-behaved puppy. He is potty trained and responds whenever he is called. And, he's neutered.",
+    "gender": "FEMALE",
+    "ageInDays": 140,
+    "weightKg": 17,
+    "characteristics": [
+      {
+        "label": "Energy",
+        "level": 3
+      },
+      {
+        "label": "Playfulness",
+        "level": 4
+      },
+      {
+        "label": "Affection",
+        "level": 4
+      },
+      {
+        "label": "Tolerance of other dogs",
+        "level": 1
+      },
+      {
+        "label": "Tolerance of Strangers",
+        "level": 1
+      },
+      {
+        "label": "Watchdog",
+        "level": 1
+      },
+      {
+        "label": "Grooming needs",
+        "level": 3
+      },
+      {
+        "label": "Tolerance of cold",
+        "level": 4
+      },
+      {
+        "label": "Tolerance of Heat",
+        "level": 2
+      },
+      {
+        "label": "Intelligence",
+        "level": 1
+      }
+    ],
+    "images": [
+      "https://images.dog.ceo/breeds/poodle-standard/n02113799_2291.jpg",
+      "https://images.dog.ceo/breeds/poodle-standard/n02113799_801.jpg",
+      "https://images.dog.ceo/breeds/poodle-standard/n02113799_448.jpg"
+    ],
+    "owner": {
+      "fullDisplayName": "Houssein Ouerghemmi",
+      "image": "https://i.ibb.co/DYqbLGj/image.jpg"
+    },
+    "location": {
+      "distanceKm": 12,
+      "address": "Paris"
+    }
+  },
+  {
+    "id": 9,
+    "breed": "Doberman",
+    "type": "DOG",
+    "name": "Muddle",
+    "description": "Very friendly and well-behaved puppy. He is potty trained and responds whenever he is called. And, he's neutered.",
+    "gender": "MALE",
+    "ageInDays": 460,
+    "weightKg": 30,
+    "characteristics": [
+      {
+        "label": "Energy",
+        "level": 4
+      },
+      {
+        "label": "Playfulness",
+        "level": 3
+      },
+      {
+        "label": "Affection",
+        "level": 4
+      },
+      {
+        "label": "Tolerance of other cats",
+        "level": 1
+      },
+      {
+        "label": "Tolerance of Strangers",
+        "level": 1
+      },
+      {
+        "label": "Intelligence",
+        "level": 5
+      }
+    ],
+    "images": [
+      "https://images.dog.ceo/breeds/doberman/n02107142_814.jpg",
+      "https://images.dog.ceo/breeds/doberman/n02107142_278.jpg",
+      "https://images.dog.ceo/breeds/doberman/n02107142_17788.jpg"
+    ],
+    "owner": {
+      "fullDisplayName": "Houssein Ouerghemmi",
+      "image": "https://i.ibb.co/DYqbLGj/image.jpg"
+    },
+    "location": {
+      "distanceKm": 12,
+      "address": "Paris"
+    }
+  },
+  {
+    "id": 10,
+    "breed": "Persan",
+    "type": "CAT",
+    "name": "Pero",
+    "description": "Very friendly and well-behaved cat. He is potty trained and responds whenever he is called. And, he's neutered.",
+    "gender": "MALE",
+    "ageInDays": 460,
+    "weightKg": 30,
+    "characteristics": [
+      {
+        "label": "Energy",
+        "level": 4
+      },
+      {
+        "label": "Playfulness",
+        "level": 3
+      },
+      {
+        "label": "Affection",
+        "level": 4
+      },
+      {
+        "label": "Tolerance of other cats",
+        "level": 1
+      },
+      {
+        "label": "Tolerance of Strangers",
+        "level": 1
+      },
+      {
+        "label": "Intelligence",
+        "level": 5
+      }
+    ],
+    "images": [
+      "https://cdn.pixabay.com/photo/2018/05/19/16/52/persian-cat-3413792__340.jpg",
+      "https://cdn.pixabay.com/photo/2014/07/26/14/01/kitten-402268_960_720.jpg"
+    ],
+    "owner": {
+      "fullDisplayName": "Houssein Ouerghemmi",
+      "image": "https://i.ibb.co/DYqbLGj/image.jpg"
+    },
+    "location": {
+      "distanceKm": 12,
+      "address": "Paris"
+    }
+  },
+  {
+    "id": 11,
+    "breed": "Ragdoll",
+    "type": "CAT",
+    "name": "Dollab",
+    "description": "Very friendly and well-behaved cat. He is potty trained and responds whenever he is called. And, he's neutered.",
+    "gender": "FEMALE",
+    "ageInDays": 460,
+    "weightKg": 30,
+    "characteristics": [
+      {
+        "label": "Energy",
+        "level": 4
+      },
+      {
+        "label": "Playfulness",
+        "level": 3
+      },
+      {
+        "label": "Affection",
+        "level": 4
+      },
+      {
+        "label": "Tolerance of other cats",
+        "level": 1
+      },
+      {
+        "label": "Tolerance of Strangers",
+        "level": 1
+      },
+      {
+        "label": "Intelligence",
+        "level": 5
+      }
+    ],
+    "images": [
+      "https://cdn.pixabay.com/photo/2017/08/07/09/50/blue-eyes-cat-2602085_1280.jpg",
+      "https://cdn.pixabay.com/photo/2016/10/09/15/43/cat-1726028_1280.jpg",
+      "https://cdn.pixabay.com/photo/2019/04/25/15/11/cat-4155119_1280.jpg"
+    ],
+    "owner": {
+      "fullDisplayName": "Houssein Ouerghemmi",
+      "image": "https://i.ibb.co/DYqbLGj/image.jpg"
+    },
+    "location": {
+      "distanceKm": 12,
+      "address": "Paris"
+    }
+  },
+  {
+    "id": 12,
+    "breed": "British shorthair",
+    "type": "CAT",
+    "name": "Bibi",
+    "description": "Very friendly and well-behaved cat. He is potty trained and responds whenever he is called. And, he's neutered.",
+    "gender": "FEMALE",
+    "ageInDays": 460,
+    "weightKg": 30,
+    "characteristics": [
+      {
+        "label": "Energy",
+        "level": 4
+      },
+      {
+        "label": "Playfulness",
+        "level": 3
+      },
+      {
+        "label": "Affection",
+        "level": 4
+      },
+      {
+        "label": "Tolerance of other cats",
+        "level": 1
+      },
+      {
+        "label": "Tolerance of Strangers",
+        "level": 1
+      },
+      {
+        "label": "Intelligence",
+        "level": 5
+      }
+    ],
+    "images": [
+      "https://cdn.pixabay.com/photo/2018/05/14/21/43/cat-3401683_1280.jpg",
+      "https://cdn.pixabay.com/photo/2018/01/28/12/37/cat-3113513_1280.jpg"
+    ],
+    "owner": {
+      "fullDisplayName": "Houssein Ouerghemmi",
+      "image": "https://i.ibb.co/DYqbLGj/image.jpg"
+    },
+    "location": {
+      "distanceKm": 12,
+      "address": "Paris"
+    }
+  },
+  {
+    "id": 13,
+    "breed": "Siamois",
+    "type": "CAT",
+    "name": "Sisi",
+    "description": "Very friendly and well-behaved cat. He is potty trained and responds whenever he is called. And, he's neutered.",
+    "gender": "FEMALE",
+    "ageInDays": 460,
+    "weightKg": 30,
+    "characteristics": [
+      {
+        "label": "Energy",
+        "level": 4
+      },
+      {
+        "label": "Playfulness",
+        "level": 3
+      },
+      {
+        "label": "Affection",
+        "level": 4
+      },
+      {
+        "label": "Tolerance of other cats",
+        "level": 1
+      },
+      {
+        "label": "Tolerance of Strangers",
+        "level": 1
+      },
+      {
+        "label": "Intelligence",
+        "level": 5
+      }
+    ],
+    "images": [
+      "https://cdn.pixabay.com/photo/2017/02/15/12/12/cat-2068462_1280.jpg",
+      "https://cdn.pixabay.com/photo/2018/03/22/23/21/cute-3252251_1280.jpg"
+    ],
+    "owner": {
+      "fullDisplayName": "Houssein Ouerghemmi",
+      "image": "https://i.ibb.co/DYqbLGj/image.jpg"
+    },
+    "location": {
+      "distanceKm": 12,
+      "address": "Paris"
+    }
+  }
+]

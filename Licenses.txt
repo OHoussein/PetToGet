@@ -1,0 +1,2 @@
+https://fontawesome.com/license
+https://github.com/android/compose-samples/blob/main/LICENSE
